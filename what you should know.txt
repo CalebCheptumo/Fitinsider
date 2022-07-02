@@ -1,3 +1,0 @@
-Basic programming concepts
-Using a text editor or IDE for working with code
-Basics of Python, including loops, variables, and classes
